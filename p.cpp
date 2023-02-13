@@ -19,7 +19,6 @@ namespace Laboratory {
               {
                   workX = workX - 10;
 
-
               }
               while (workX > 10);
           }
