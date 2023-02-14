@@ -11,10 +11,10 @@ namespace Laboratory {
       if (a < 1) {
         Console.WriteLine("Ошибка. Число (a) не является действительным числом.");
         Environment.Exit(0); 
-            }
+      }
       double result = 1; 
       
-      for (int index = 0; index < n; ++index) { 
+      for (int multyplyindex = 0; multyplyindex < n; ++multyplyindex) { 
         result *= a;
       }
       
